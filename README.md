@@ -19,7 +19,7 @@ CryptoVerse is a powerful and user-friendly crypto website built using React.js,
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/cryptoverse.git
+git clone https://github.com/Akash815355/CryptoVerse.git
 ```
 
 2. Navigate to the project directory:
