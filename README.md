@@ -1,6 +1,6 @@
 # CryptoVerse - Crypto Website
 
-[![CryptoVerse Logo](https://assets.devfolio.co/hackathons/23bc6064fb88427e8c5718419dbc74bf/projects/9521185214c8440596b549e4a13ab254/d2ebae37-f814-4a2a-b6bf-dc8fd38b4caa.png)]
+![CryptoVerse Logo](https://assets.devfolio.co/hackathons/23bc6064fb88427e8c5718419dbc74bf/projects/9521185214c8440596b549e4a13ab254/d2ebae37-f814-4a2a-b6bf-dc8fd38b4caa.png)
 
 CryptoVerse is a powerful and user-friendly crypto website built using React.js, Redux Toolkit, Ant Design, Coinranking API, and Bing News Search API. This website allows users to explore and stay updated with the latest information about cryptocurrencies, including details, graphs, and news.
 
